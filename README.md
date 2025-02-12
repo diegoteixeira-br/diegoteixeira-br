@@ -1,5 +1,9 @@
-## Olá 👋
-Eu sou o Diego Teixeira, sou um Programador Front End, atualmente estrou aprendendo e criando projetos com:
+##👋 Olá, eu sou o Diego Teixeira!
+💻 Programador Front-End em evolução, apaixonado por transformar ideias em interfaces incríveis.
+🚀 Atualmente aprimorando minhas habilidades com HTML e CSS, além de explorar JavaScript e React para criar projetos mais dinâmicos e interativos.
+🔍 Sempre em busca de novos desafios e aprendizados no mundo do desenvolvimento web.
+
+Vamos construir algo incrível juntos? 😃
 <br>
 <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/><br>
