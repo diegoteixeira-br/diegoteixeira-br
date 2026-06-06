@@ -36,8 +36,8 @@ Aqui estão alguns dos produtos comerciais e plataformas que fundei e desenvolvi
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=diegotexeira-br&theme=dracula&show_icons=true" alt="Estatísticas Gerais do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotexeira-br&layout=compact&theme=dracula" alt="Linguagens Principais" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=diegoteixeira-br&theme=dracula&show_icons=true" alt="Estatísticas Gerais do GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoteixeira-br&layout=compact&theme=dracula" alt="Linguagens Principais" />
 </div>
 
 ---
