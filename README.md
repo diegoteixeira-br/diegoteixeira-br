@@ -33,15 +33,6 @@ Aqui estão alguns dos produtos comerciais e plataformas que fundei e desenvolvi
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=diegoteixeira-br&theme=dracula&show_icons=true" alt="Estatísticas Gerais do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoteixeira-br&layout=compact&theme=dracula" alt="Linguagens Principais" />
-</div>
-
----
-
 ### 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-t-da-silva)
